@@ -1,3 +1,5 @@
+<img width="1789" height="975" alt="image" src="https://github.com/user-attachments/assets/935a7c0f-bae1-41de-bfd5-68c1aa64e313" />
+
 # 1.填充无纹理
 <img width="1352" height="1398" alt="image" src="https://github.com/user-attachments/assets/b09c8764-aba8-4626-a0d9-4a63cdd72403" />
 
